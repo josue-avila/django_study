@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'team',
     'product',
     'sport',
+    'customer',
     'buteco_customer'
 ]
 
